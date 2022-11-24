@@ -9,7 +9,7 @@ In this repository, we have performed the end to end Exploratory Data Analysis, 
 
 The predicton model was trained on the dataset, all the data are based on claims similar to real world. The accuracy rate of the model prediction is 75% with xgboost and using hyperparameters.
 
-## https://polite-caramel-39fbce.netlify.app
+## https://customer-churn-prediction-ml.netlify.app/
 
 ## Main page --> index.html
 
