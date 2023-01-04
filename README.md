@@ -5,9 +5,12 @@ Churn Prediction Model is a predictive model that calculates, on an individual c
 
 It’s a binary classifier, which means that it divides customers into two distinct groups (classes) based on whether or not they leave the company. In most cases, in addition to placing them in one of the two groups, it will also tell you the likelihood that the customer is a member of that group.
 
-In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
+In this repository, I have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn, and I have used them wisely to create a model, and lately, have deployed the model.
 
 The predicton model was trained on the dataset, all the data are based on claims similar to real world. The accuracy rate of the model prediction is 75% with xgboost and using hyperparameters.
+
+## Task
+An up-and-coming startup is keen on reducing its customer churn and has hired you as a Machine Learning engineer for this task. As an expert, you are required to build a sophisticated Machine Learning model that predicts the churn score for a website based on multiple features.
 
 ## https://customer-churn-prediction-ml.netlify.app/
 
